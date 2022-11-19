@@ -1,0 +1,8 @@
+---- ADMIN -----
+tài khoản: admin@gmail.com
+mật khẩu: admin
+
+
+---- USER TEST -----
+tài khoản: huhu@gmail.com
+mật khẩu: huhu
